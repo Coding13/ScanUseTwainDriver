@@ -1,0 +1,1 @@
+A demo program that uses the Twain interface to scan under Windows.

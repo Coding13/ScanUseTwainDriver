@@ -1,0 +1,9 @@
+./Debug
+./Debug/*.*
+./MyTwain/Debug
+./MyTwain/Debug/*.*
+./Release
+./Release/*.*
+./MyTwain/Release
+./MyTwain/Release/*.*
+Debug
